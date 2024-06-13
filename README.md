@@ -2,7 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<img src="https://github.com/AR097/QRcodeGenerator/blob/main/qrgenerator.gif?raw=true">
+![image](https://github.com/AR097/QRcodeGenerator/assets/107823438/5f3abda3-699e-41bf-a4a4-ebc59a306ef2)
+
 QRCode Generator have a option for save a file (.png). File name is text inputed. 
 
 ## Install and run
