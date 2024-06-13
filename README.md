@@ -7,23 +7,14 @@ QRCode Generator have a option for save a file (.png). File name is text inputed
 
 ## Install and run
 
-
 Clone this repository:<br>
-``` 
-  git clone https://github.com/AR097/QRcodeGenerator.git
-```
+  `> git clone https://github.com/AR097/QRcodeGenerator.git`<br><br>
 React directory:<br>
-```
-  npm install
-```
+  `> npm install`<br><br>
 Install the library:<br>
-```
-  npm install qrcode.react
-```
+  `npm install qrcode.react`<br><br>
 Start the progrmam:<br>
-```
-  npm start
-```
+  `> npm start`<br><br>
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
